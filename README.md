@@ -1,1 +1,1 @@
-# Eduqueue-Queueing-System
+# eduqueue
